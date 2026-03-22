@@ -10,10 +10,12 @@ import BulkOrderPage from './pages/BulkOrderPage'
 import OrderConfirmationPage from './pages/OrderConfirmationPage'
 import DashboardPage from './pages/DashboardPage'
 import AdminDashboardPage from './pages/AdminDashboardPage'
+import { Analytics } from "@vercel/analytics/next"
 
 export default function App() {
   return (
     <>
+      <Analytics />
       <Header />
       <main>
         <Routes>
