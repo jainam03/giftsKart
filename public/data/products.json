@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Diwali Premium Hamper",
+    "category": "Festival Hampers",
+    "description": "A premium festive hamper featuring assorted dry fruits, chocolates, scented candles, and a handcrafted greeting card — all beautifully packaged in an embossed gold box. Perfect for Diwali corporate gifting.",
+    "price_per_unit": 1200,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1607344645866-009c320b63e0?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "message_card", "packaging"]
+  },
+  {
+    "id": 2,
+    "name": "Luxury Dry Fruit Box",
+    "category": "Festival Hampers",
+    "description": "An elegant wooden box filled with premium almonds, cashews, pistachios, and raisins. Finished with a satin ribbon and customizable nameplate.",
+    "price_per_unit": 950,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "message_card", "packaging"]
+  },
+  {
+    "id": 3,
+    "name": "Festive Premium Gift Basket",
+    "category": "Festival Hampers",
+    "description": "A curated basket of gourmet cookies, artisanal chocolates, premium tea, and aromatic candles wrapped in festive packaging.",
+    "price_per_unit": 1500,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1513201099531-2f85854cce36?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "message_card", "packaging", "color"]
+  },
+  {
+    "id": 4,
+    "name": "Traditional Sweet Gift Box",
+    "category": "Festival Hampers",
+    "description": "Handcrafted Indian sweets — kaju katli, motichoor ladoo, and badam barfi — presented in a royal velvet box. Food-grade certified.",
+    "price_per_unit": 800,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1548848221-0c2e497ed557?w=480&h=360&fit=crop",
+    "customizable": false,
+    "customization_options": []
+  },
+  {
+    "id": 5,
+    "name": "Corporate Coffee Mug",
+    "category": "Branded Merchandise",
+    "description": "High-quality ceramic mug with full-wrap printing support. Dishwasher safe. Available in matte black, white, and navy.",
+    "price_per_unit": 350,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "color"]
+  },
+  {
+    "id": 6,
+    "name": "Branded Steel Bottle",
+    "category": "Branded Merchandise",
+    "description": "Double-wall insulated stainless steel bottle (750ml). Keeps drinks hot for 12 hrs, cold for 24 hrs. Laser-engraving supported.",
+    "price_per_unit": 550,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "color"]
+  },
+  {
+    "id": 7,
+    "name": "Eco Tote Bag",
+    "category": "Branded Merchandise",
+    "description": "Organic cotton tote bag with reinforced handles. Perfect for conferences, trade shows, and employee welcome kits. Full-color screen printing.",
+    "price_per_unit": 250,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1597484661973-ee6cd0b6482c?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "color"]
+  },
+  {
+    "id": 8,
+    "name": "Custom Notebook Set",
+    "category": "Branded Merchandise",
+    "description": "Set of 2 A5 hardbound notebooks with 192 pages each. Premium paper (100 GSM), elastic closure, ribbon bookmark. Cover embossing available.",
+    "price_per_unit": 450,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "message_card", "color"]
+  },
+  {
+    "id": 9,
+    "name": "Employee Self-Care Kit",
+    "category": "Wellness Kits",
+    "description": "A wellness-focused kit with organic hand cream, lip balm, aromatherapy roll-on, and a bamboo face towel in a jute pouch.",
+    "price_per_unit": 700,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "packaging"]
+  },
+  {
+    "id": 10,
+    "name": "Aromatherapy Desk Kit",
+    "category": "Wellness Kits",
+    "description": "Premium desk wellness set featuring a soy-wax candle, essential oil diffuser, and lavender pillow spray. Reduces workplace stress.",
+    "price_per_unit": 850,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1602928321679-560bb453f190?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "packaging", "message_card"]
+  },
+  {
+    "id": 11,
+    "name": "Herbal Tea Hamper",
+    "category": "Wellness Kits",
+    "description": "Collection of 6 artisanal herbal teas — chamomile, peppermint, turmeric latte, and more — with a ceramic teacup in a premium gift box.",
+    "price_per_unit": 600,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=480&h=360&fit=crop",
+    "customizable": false,
+    "customization_options": []
+  },
+  {
+    "id": 12,
+    "name": "Mindfulness Gift Box",
+    "category": "Wellness Kits",
+    "description": "Guided journal, stress relief ball, essential oil, and herbal eye mask packaged in a calming pastel box. Ideal for employee wellness programs.",
+    "price_per_unit": 750,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "message_card"]
+  },
+  {
+    "id": 13,
+    "name": "Executive Desk Gift Set",
+    "category": "Desk Accessories",
+    "description": "Premium desk set with wireless charging pad, pen holder, sticky notes dispenser, and a faux-leather desk mat. Engraving on all items.",
+    "price_per_unit": 1800,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "color", "message_card"]
+  },
+  {
+    "id": 14,
+    "name": "Leather Organizer Kit",
+    "category": "Desk Accessories",
+    "description": "Genuine leather desk organizer with card holder, cable organizer, and pen tray. Available in tan, black, and burgundy.",
+    "price_per_unit": 1400,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo", "color"]
+  },
+  {
+    "id": 15,
+    "name": "Premium Pen Set",
+    "category": "Desk Accessories",
+    "description": "Rollerball and ballpoint pen duo in brushed steel finish, presented in a padded gift case with custom engraving on each pen.",
+    "price_per_unit": 500,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo"]
+  },
+  {
+    "id": 16,
+    "name": "Wireless Charger Combo",
+    "category": "Desk Accessories",
+    "description": "Sleek bamboo wireless charging pad with built-in phone stand and additional USB port. Works with all Qi-compatible devices.",
+    "price_per_unit": 900,
+    "min_order_qty": 25,
+    "image_url": "https://images.unsplash.com/photo-1622979135225-97ed5b25c3da?w=480&h=360&fit=crop",
+    "customizable": true,
+    "customization_options": ["logo"]
+  }
+]

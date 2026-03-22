@@ -1,0 +1,47 @@
+[
+  {
+    "id": "QT-20260316-001",
+    "company_name": "TechNova Solutions Pvt. Ltd.",
+    "contact_person": "Priya Sharma",
+    "email": "priya@technova.in",
+    "product_name": "Diwali Premium Hamper",
+    "product_image": "https://images.unsplash.com/photo-1607344645866-009c320b63e0?w=480&h=360&fit=crop",
+    "quantity": 200,
+    "price_per_unit": 960,
+    "total_price": 192000,
+    "status": "Accepted",
+    "created_date": "2026-03-16",
+    "valid_until": "2026-03-30",
+    "notes": "Bulk order for Diwali 2026. Needs custom gold packaging with company logo."
+  },
+  {
+    "id": "QT-20260319-002",
+    "company_name": "Pinnacle Infotech",
+    "contact_person": "Vikram Singh",
+    "email": "vikram@pinnacle.io",
+    "product_name": "Custom Notebook Set",
+    "product_image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=480&h=360&fit=crop",
+    "quantity": 150,
+    "price_per_unit": 360,
+    "total_price": 54000,
+    "status": "Pending",
+    "created_date": "2026-03-19",
+    "valid_until": "2026-04-02",
+    "notes": "New employee onboarding kits. Need embossed company name on cover."
+  },
+  {
+    "id": "QT-20260321-003",
+    "company_name": "Sunrise Education Trust",
+    "contact_person": "Dr. Meera Nair",
+    "email": "meera@sunriseedu.org",
+    "product_name": "Premium Pen Set",
+    "product_image": "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?w=480&h=360&fit=crop",
+    "quantity": 500,
+    "price_per_unit": 400,
+    "total_price": 200000,
+    "status": "Sent",
+    "created_date": "2026-03-21",
+    "valid_until": "2026-04-05",
+    "notes": "Graduation ceremony gifts. University logo engraving required. Needs gift wrapping."
+  }
+]
