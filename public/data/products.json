@@ -6,7 +6,7 @@
     "description": "A premium festive hamper featuring assorted dry fruits, chocolates, scented candles, and a handcrafted greeting card — all beautifully packaged in an embossed gold box. Perfect for Diwali corporate gifting.",
     "price_per_unit": 1200,
     "min_order_qty": 25,
-    "image_url": "https://images.unsplash.com/photo-1607344645866-009c320b63e0?w=480&h=360&fit=crop",
+    "image_url": "https://images.unsplash.com/photo-1509924603848-aca5e5f276d7?w=480&h=360&fit=crop",
     "customizable": true,
     "customization_options": ["logo", "message_card", "packaging"]
   },
@@ -17,7 +17,7 @@
     "description": "An elegant wooden box filled with premium almonds, cashews, pistachios, and raisins. Finished with a satin ribbon and customizable nameplate.",
     "price_per_unit": 950,
     "min_order_qty": 25,
-    "image_url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=480&h=360&fit=crop",
+    "image_url": "https://images.unsplash.com/photo-1593627060373-19bd99a89d70?w=480&h=360&fit=crop",
     "customizable": true,
     "customization_options": ["logo", "message_card", "packaging"]
   },
@@ -28,7 +28,7 @@
     "description": "A curated basket of gourmet cookies, artisanal chocolates, premium tea, and aromatic candles wrapped in festive packaging.",
     "price_per_unit": 1500,
     "min_order_qty": 25,
-    "image_url": "https://images.unsplash.com/photo-1513201099531-2f85854cce36?w=480&h=360&fit=crop",
+    "image_url": "https://images.unsplash.com/photo-1607344645866-009c320b63e0?w=480&h=360&fit=crop",
     "customizable": true,
     "customization_options": ["logo", "message_card", "packaging", "color"]
   },
@@ -39,7 +39,7 @@
     "description": "Handcrafted Indian sweets — kaju katli, motichoor ladoo, and badam barfi — presented in a royal velvet box. Food-grade certified.",
     "price_per_unit": 800,
     "min_order_qty": 25,
-    "image_url": "https://images.unsplash.com/photo-1548848221-0c2e497ed557?w=480&h=360&fit=crop",
+    "image_url": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?w=480&h=360&fit=crop",
     "customizable": false,
     "customization_options": []
   },
